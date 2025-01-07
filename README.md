@@ -9,10 +9,11 @@ app_file: app.py
 pinned: false
 ---
 
+### Application Demo
 
-[![Sync to Hugging Face hub](https://github.com/abdullahashfaqvirk/Text-Summarization-App/actions/workflows/main.yml/badge.svg)](https://github.com/abdullahashfaqvirk/Text-Summarization-App/actions/workflows/main.yml)
+[Try out](https://huggingface.co/spaces/abdullahashfaqvirk/Text-Summarization-App) the project on Hugging Face Spaces.
 
-[Try Text Summarization Here](https://huggingface.co/spaces/abdullahashfaqvirk/Text-Summarization-App)
+![Hugging Face Space](./assets/huggingface-space.png)
 
 ### License
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
